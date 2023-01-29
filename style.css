@@ -171,6 +171,9 @@ section input {
     margin-top: 3%
 }
 
+.marquee-space p{
+   margin-bottom : 0px;
+}
 /* .card-space {
     border: 1px solid #f2f2f2;
     /* box-shadow: #e7d5d5ce; */
