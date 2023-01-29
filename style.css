@@ -161,7 +161,8 @@ section input {
 
 .img {
     width: 100vw;
-    height: 45vh;
+    height: 77vh;
+    object-fit: cover;
     /* border: 1px solid darkblue; */
 
 }
